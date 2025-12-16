@@ -1,0 +1,7 @@
+{
+  "name": "SigSpec: Audio Origin Analyzer",
+  "description": "A signal processing tool that analyzes audio waveforms and spectrograms to classify voice recordings as Human or AI-generated based on frequency distribution, noise floor, and harmonic regularity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
